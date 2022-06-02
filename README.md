@@ -38,3 +38,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=bajar143&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bajar143&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bajar143&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://spotify-github-profile.vercel.app/api/view.svg?uid=31xqagmcrdqushyjs26eeg7ckt4q&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31xqagmcrdqushyjs26eeg7ckt4q&cover_image=true&theme=natemoo-re&bar_color=35c530&bar_color_cover=true)
